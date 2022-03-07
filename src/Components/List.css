@@ -1,0 +1,25 @@
+.items{
+    border: 2px solid black;
+    width: 550px;
+    height: 700px;
+    margin-left: 33%;
+    margin-top: 100px;
+    border-radius: 20px;
+    background-color: aquamarine;
+    box-shadow: 10px 10px;
+}
+
+body{
+    background-color: tan;
+}
+
+.head{
+    font-size: bolder;
+    color: orangered;
+}
+
+.total{
+    color: chocolate;
+    font-weight: 60px;
+    font-size: xx-large;
+}
